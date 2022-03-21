@@ -1,7 +1,8 @@
 <?php
-namespace Alura\Arch\Indicacao;
 
-use Alura\Arch\Aluno\Aluno;
+namespace Alura\Arquitetura\Dominio\Indicacao;
+
+use Alura\Arquitetura\Dominio\Aluno\Aluno;
 
 class Indicacao
 {
@@ -13,6 +14,7 @@ class Indicacao
     {
         $this->indicante = $indicante;
         $this->indicado = $indicado;
+
         $this->data = new \DateTimeImmutable();
     }
 }
