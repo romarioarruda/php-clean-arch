@@ -4,6 +4,8 @@
 
 ### Conceitos e técnicas aprendidos no treinamento:
 
+##
+
 **Conhecendo o sistema**:
 
 * O que é arquitetura de software
