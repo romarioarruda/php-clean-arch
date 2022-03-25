@@ -1,7 +1,5 @@
 ## Projeto treinado no curso de Clean Arch na Alura
 
-<hr>
-
 ##
 
 ### Conceitos e técnicas aprendidos no treinamento:
@@ -14,7 +12,6 @@
 
 * Sobre Value Objects e que a sua igualdade se dá pela comparação dos seus valores
 
-<hr>
 
 **Enriquecendo o domínio**:
 
@@ -24,7 +21,6 @@
 
 * Sobre named constructors e suas vantagens na legibilidade
 
-<hr>
 
 **Camadas**:
 
@@ -36,7 +32,6 @@
 Começamos pelo domínio
 
 
-<hr>
 
 **Repositórios**:
 
@@ -47,7 +42,6 @@ Começamos pelo domínio
 * Que é possível criar implementações que sejam mais fáceis de utilizar em nossos testes
 
 
-<hr>
 
 **Services**:
 
@@ -62,7 +56,6 @@ Começamos pelo domínio
     * Infrastructure Services são implementações de interfaces presentes nas camadas de domínio ou de aplicação
 
 
-<hr>
 
 **Use cases**:
 
@@ -71,5 +64,3 @@ Começamos pelo domínio
 * Na prática, que web, persistência e frameworks podem ser meras ferramentas
 
 * Na prática, as vantagens de modelar uma aplicação, partindo do seu domínio
-
-<hr>
